@@ -1,5 +1,5 @@
 #Data Visualization
 
 ## [Prometheus] (http://courses.prometheus.org.ua)
-2016-11-29 added week **2**  
-2016-11-29 added week **1**
+- [x] **week 2** added on 2016-11-29  
+- [x] **week 1** added on 2016-11-29
